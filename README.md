@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Leandro Santos, but you can call me ls.code</h1>
 <h3 align="center">Born in Cap-Vert and currently studying in EsACT - IPB in Mirandela, Portugal</h3>
 
-- 🔭 I’m currently working on [EsACT](https://esact.ipb.pt/index.php)
+- 🔭 I’m currently studying in **[EsACT](https://esact.ipb.pt/index.php)**
 
 - 🌱 I’m currently learning **Networking at Cisco academy; backend with distributed system and Data Structures and Algorithms Object-Oriented Design Patterns in C#**
 
@@ -28,5 +28,5 @@
 <div dir="auto"
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=LeandroSantos3&show_icons=true&theme=dracula" alt="leandrosantos3" /></p>
 
-<p><img align="center" width="355" heigth="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSantos3&layout=compact&theme=dracula" alt="leandrosantos3" /></p>
+<p><img align="center" width="415" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSantos3&layout=compact&theme=dracula" alt="leandrosantos3" /></p>
 </div>
