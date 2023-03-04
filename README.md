@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [EsACT](https://esact.ipb.pt/index.php)
 
-- 🌱 I’m currently learning **Networking at Cisco academy; backend with distributed system and Data Structures and Algorithms Object-Oriented Design Patterns in C#
+- 🌱 I’m currently learning **Networking at Cisco academy; backend with distributed system and Data Structures and Algorithms Object-Oriented Design Patterns in C#**
 
-- 👯 I’m looking to collaborate on [CCG](https://ccg.pt)
+<!--👯 I’m looking to collaborate on [CCG](https://ccg.pt)-->
 
 - 🤝 I’m looking for help with **Final project**
 
