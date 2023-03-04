@@ -26,7 +26,7 @@
 </a> </p>
 
 <div dir="auto"
-<p><img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=LeandroSantos3&show_icons=true&theme=dracula" alt="leandrosantos3" /></p>
+<p><img align="left" width="300" src="https://github-readme-stats.vercel.app/api?username=LeandroSantos3&show_icons=true&theme=dracula" alt="leandrosantos3" /></p>
 
-<p><img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSantos3&layout=compact&theme=dracula" alt="leandrosantos3" /></p>
+<p><img align="center" width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSantos3&layout=compact&theme=dracula" alt="leandrosantos3" /></p>
 </div>
