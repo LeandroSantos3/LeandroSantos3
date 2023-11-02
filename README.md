@@ -1,9 +1,9 @@
 ![MasterHead](https://i.pinimg.com/originals/71/c3/ef/71c3ef3a13f91c3df7ba23c35d6ba8ac.jpg)
 
 <h1 align="center">Hi 👋, I'm Leandro Santos, but you can call me ls.code</h1>
-<h3 align="center">Born in Cap-Vert and currently studying in EsACT - IPB in Mirandela, Portugal</h3>
+<h3 align="center">Born in Cap-Vert and currently working at MORE Colab, Portugal</h3>
 
-- 🔭 I’m currently studying in **[EsACT](https://esact.ipb.pt/index.php)**
+<!--- 🔭 I’m currently studying in **[EsACT](https://esact.ipb.pt/index.php)**
 
 - 🌱 I’m currently learning **Networking at Cisco academy; backend with distributed system and Data Structures and Algorithms Object-Oriented Design Patterns in C#**
 
