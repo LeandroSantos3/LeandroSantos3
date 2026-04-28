@@ -6,6 +6,6 @@
 <div dir="auto">
 <p><img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=LeandroSantos3&show_icons=true&theme=radical" alt="leandrosantos3" /></p>
 
-<p><img align="center" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSantos3&layout=compact&theme=radical" alt="leandrosantos3" /></p>
+<p><img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSantos3&layout=compact&theme=radical" alt="leandrosantos3" /></p>
 </div>
 
